@@ -17,22 +17,26 @@
 
 
 <br/>
+<br/>
+<br/>
 
 # 💻 Currently Learning
-
+<br/>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
----
 
+<br/>
+<br/>
 
 
 # ✨ Personal Philosophy
 
 > "Learning never stops. Growth begins where comfort ends."
 
----
+<br/>
+<br/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=erfan-gz&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
