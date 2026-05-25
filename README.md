@@ -52,6 +52,21 @@
 ![InDesign](https://img.shields.io/badge/InDesign-20232A?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) -->
 
 <br/>
+<h2 align="center">📞 Connect With Me</h2>
+
+<p align="center">
+  <!-- <a href="https://sabzlearn.ir/">
+    <img src="https://img.shields.io/badge/Sabzlearn.ir-20232A?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" />
+  </a> -->
+
+  <!-- <a href="https://instagram.com/rad_front/">
+    <img src="https://img.shields.io/badge/@Rad__Front-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a> -->
+
+  <a href="https://t.me/erfan_gz7/">
+    <img src="https://img.shields.io/badge/@erfan__gz7-20232A?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  </a>
+</p>
 <br />
 
 <!-- ![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=00EDBE) -->
