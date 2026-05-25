@@ -8,7 +8,6 @@
 <!-- <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 
-
 - 🌱 Currently focused on learning and improving Front-End Development
 - 💻 Passionate about building modern and interactive web experiences
 - 🚀 Exploring new technologies every day
@@ -21,41 +20,41 @@
 
 <h2>🔧 &nbsp;Tech Stack</h2>
 
-### 💻 Languages & OS
+### 💻  
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-### 🌐 Frontend & Backend
+### 🌐 
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=00EDBE)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 
-### 🛢 Databases
+<!-- ### 🛢 
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248) -->
 
-### ⚙️ Tools & Version Control
+### ⚙️ 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Markdown](https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
 
-### 🔧 IDEs & Editors
-![VSCode](https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![RStudio](https://img.shields.io/badge/RStudio-20232A?style=for-the-badge&logo=rstudio&logoColor=75AADB)
-![Eclipse](https://img.shields.io/badge/Eclipse-20232A?style=for-the-badge&logo=eclipseide&logoColor=2C2255)
 
-### 🎨 Design Tools
+### 🔧 :
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudio&logoColor=007ACC)
+ <!-- ![RStudio](https://img.shields.io/badge/RStudio-20232A?style=for-the-badge&logo=rstudio&logoColor=75AADB)
+![Eclipse](https://img.shields.io/badge/Eclipse-20232A?style=for-the-badge&logo=eclipseide&logoColor=2C2255) -->
+
+<!-- ### 🎨 :
 ![Illustrator](https://img.shields.io/badge/Illustrator-20232A?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![InDesign](https://img.shields.io/badge/InDesign-20232A?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+![InDesign](https://img.shields.io/badge/InDesign-20232A?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) -->
 
 <br/>
 <br />
 
-
+<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=00EDBE) -->
 
 
 # ✨ Personal Philosophy
