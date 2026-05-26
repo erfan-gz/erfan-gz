@@ -1,4 +1,4 @@
-<img  width="100%" src="https://github.com/erfan-gz/README-banner/blob/main/erfan_banner_js2%20(4)%20(2).svg">
+<img  width="100%" src="https://github.com/erfan-gz/erfan-gz/blob/main/erfan_banner_js2%20(4)%20(2).svg">
 
 # 👋 𝐻𝑖, 𝐼'𝑚 𝐸𝑅𝐹𝐴𝑁
 
