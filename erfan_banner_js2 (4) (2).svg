@@ -1,0 +1,94 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>GitHub profile banner for Erfan Gholamzadeh</title>
+  <desc>JavaScript themed banner for Erfan Gholamzadeh, CS Student and Frontend Developer</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e0e0e"/>
+      <stop offset="100%" stop-color="#141408"/>
+    </linearGradient>
+    <linearGradient id="lineg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f7df1e" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#f7df1e" stop-opacity="0.6"/>
+      <stop offset="75%" stop-color="#f7df1e" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#f7df1e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeyl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f7df1e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#f7df1e" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="fadeyr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f7df1e" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#f7df1e" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="680" height="200" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <rect width="680" height="200" fill="url(#bg)" rx="10"/>
+
+  <!-- JS watermark top-right corner -->
+  <g clip-path="url(#clip)" opacity="0.035">
+    <rect x="490" y="-10" width="210" height="210" fill="#f7df1e"/>
+    <text x="510" y="158" font-family="'SF Mono','Fira Code',monospace" font-size="140" font-weight="700" fill="#0e0e0e">JS</text>
+  </g>
+
+  <!-- corner brackets -->
+  <path d="M24 44 L24 24 L44 24" fill="none" stroke="#f7df1e" stroke-width="1.2" opacity="0.35"/>
+  <path d="M656 44 L656 24 L636 24" fill="none" stroke="#f7df1e" stroke-width="1.2" opacity="0.35"/>
+  <path d="M24 156 L24 176 L44 176" fill="none" stroke="#f7df1e" stroke-width="1.2" opacity="0.35"/>
+  <path d="M656 156 L656 176 L636 176" fill="none" stroke="#f7df1e" stroke-width="1.2" opacity="0.35"/>
+
+  <!-- left decorative lines -->
+  <line x1="40" y1="88" x2="216" y2="88" stroke="url(#fadeyl)" stroke-width="0.6"/>
+  <line x1="40" y1="93" x2="180" y2="93" stroke="url(#fadeyl)" stroke-width="0.3"/>
+  <!-- right decorative lines -->
+  <line x1="464" y1="88" x2="640" y2="88" stroke="url(#fadeyr)" stroke-width="0.6"/>
+  <line x1="500" y1="93" x2="640" y2="93" stroke="url(#fadeyr)" stroke-width="0.3"/>
+
+  <!-- anchor dots -->
+  <circle cx="220" cy="88" r="2" fill="#f7df1e" opacity="0.7"/>
+  <circle cx="460" cy="88" r="2" fill="#f7df1e" opacity="0.7"/>
+
+  <!-- name -->
+  <text x="340" y="84" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="38" font-weight="400"
+    fill="#ffffff" letter-spacing="0.5">Erfan Gholamzadeh</text>
+
+  <!-- role -->
+  <text x="340" y="108" text-anchor="middle"
+    font-family="'SF Mono','Fira Code',monospace"
+    font-size="11.5" fill="#c8b800" letter-spacing="3">CS STUDENT · FRONTEND DEVELOPER</text>
+
+  <!-- accent line -->
+  <rect x="120" y="122" width="440" height="0.8" fill="url(#lineg)"/>
+
+  <!-- contact row — github + dot + email centered -->
+  <!-- total: 18(icon)+6+65(text)+16+4(dot)+16+14(icon)+6+185(text) = ~330 → start x=175 -->
+  <g transform="translate(175,138)">
+    <path d="M9 0C4.03 0 0 4.03 0 9c0 3.98 2.58 7.35 6.16 8.54.45.08.61-.2.61-.44v-1.53c-2.5.54-3.03-1.2-3.03-1.2-.41-1.04-1-1.32-1-1.32-.82-.56.06-.55.06-.55.9.06 1.38.93 1.38.93.8 1.37 2.1.97 2.61.74.08-.58.31-.97.57-1.19-1.99-.23-4.09-1-4.09-4.43 0-.98.35-1.78.93-2.41-.09-.23-.4-1.14.09-2.37 0 0 .76-.24 2.48.93A8.6 8.6 0 0 1 9 4.42c.77 0 1.54.1 2.26.3 1.72-1.17 2.48-.93 2.48-.93.49 1.23.18 2.14.09 2.37.58.63.93 1.43.93 2.41 0 3.44-2.1 4.2-4.1 4.42.32.28.61.83.61 1.67v2.47c0 .24.16.52.62.44A9.01 9.01 0 0 0 18 9c0-4.97-4.03-9-9-9z"
+      fill="#aaaaaa"/>
+  </g>
+  <text x="199" y="151" text-anchor="start"
+    font-family="'SF Mono','Fira Code',monospace"
+    font-size="12" fill="#cccccc">erfan-gz</text>
+
+  <circle cx="270" cy="147" r="1.8" fill="#f7df1e" opacity="0.4"/>
+
+  <g transform="translate(281,141)">
+    <rect x="0" y="0" width="14" height="10" rx="2" fill="none" stroke="#aaaaaa" stroke-width="1"/>
+    <polyline points="0,0 7,5.5 14,0" fill="none" stroke="#aaaaaa" stroke-width="1"/>
+  </g>
+  <text x="301" y="151" text-anchor="start"
+    font-family="'SF Mono','Fira Code',monospace"
+    font-size="12" fill="#cccccc">erfan.compsci@gmail.com</text>
+
+  <!-- bottom code line -->
+  <text x="340" y="178" text-anchor="middle"
+    font-family="'SF Mono','Fira Code',monospace"
+    font-size="10" fill="#333320">
+    <tspan fill="#2a2a18">const</tspan> erfan = <tspan fill="#2a2a18">new</tspan> Developer({ passion: <tspan fill="#4a4520">"JavaScript"</tspan>, goal: <tspan fill="#4a4520">"CS Graduate"</tspan> });
+  </text>
+
+</svg>
