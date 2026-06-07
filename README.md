@@ -64,7 +64,7 @@
   </a> -->
 
   <a href="https://t.me/erfan_gz7/">
-    <img src="https://img.shields.io/badge/@erfan__gz7-20232A?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+    <img src="https://img.shields.io/badge/@erfangzdev-20232A?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
 </p>
 <br />
